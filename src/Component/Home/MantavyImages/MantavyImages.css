@@ -1,0 +1,6 @@
+@media (max-width:1000px){
+    .image-gal-list{
+        width: 100% !important;
+        flex-direction: column;
+    }
+}

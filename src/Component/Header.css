@@ -1,0 +1,78 @@
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none; /* Hide by default */
+    color: black;
+    position: absolute;
+    top: 45px;
+    border-radius: 0px 0px 4px 4px ;
+    background-color: white; /* Background color for dropdown */
+    min-width: 60px; /* Minimum width */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Shadow effect */
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block; /* Show on hover */
+  }
+  
+  .scroll {
+    max-height: 300px; 
+    overflow-y: scroll; /* Enable vertical scrolling */
+  }
+
+  .scroll::-webkit-scrollbar {
+    display: none;
+    scroll-behavior: smooth;
+  }
+  
+  .dropdown-item {
+    /* padding: 8px 8px; Padding for dropdown items */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Smooth transition */
+    text-align: left !important;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #0a6d30 !important;
+    color: white !important;
+  }
+  
+  .sub-dropdown-content {
+    display: none; /* Hide sub-dropdowns by default */
+    position: absolute;
+    left: 100%; /* Position to the right of the parent */
+    top: 0; /* Align with top */
+    background-color: white; /* Background color for sub-dropdown */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow effect */
+    min-width: 100px; /* Minimum width for sub-dropdown */
+    z-index: 2; /* Ensure sub-dropdown is above */
+    color: black;
+  }
+  
+  .dropdown-item:hover .sub-dropdown-content {
+    display: block; /* Show sub-dropdown on hover of parent */
+  }
+  
+  .sub-dropdown-item {
+    /* padding: 10px; Padding for sub-dropdown items */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Smooth transition */
+  }
+  
+  .sub-dropdown-item:hover {
+    background-color: #0a6d30;
+    color: white;
+  }
+  /* button:hover {
+    color: #E31E24;
+} */
+  
+  .textd {
+    font-weight: bold; /* Bold text for buttons */
+    text-align: center; /* Align text to the left */
+  }
+  

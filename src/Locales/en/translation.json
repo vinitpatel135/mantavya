@@ -1,0 +1,76 @@
+{
+    "header": {
+        "select_language": "Select Language",
+        "contact": "Contact",
+        "download": "Download",
+        "product": "Product",
+        "mui": "MUI",
+        "navItems": [
+            {
+                "name": "Home",
+                "path": "/"
+            },
+            {
+                "name": "About",
+                "path": "/AboutUs"
+            },
+            {
+                "name": "Product",
+                "path": "/AllProduct"
+            },
+            {
+                "name": "gallary",
+                "path": "/Gallary"
+            },
+            {
+                "name": "Contact",
+                "path": "/ContactUs"
+            }
+        ],
+        "productList": [
+            {
+                "name": "Iphone 16 Pro Max",
+                "category": "Electronix",
+                "subCategory": "Mobile"
+            },
+            {
+                "name": "Asus Tuf F15",
+                "category": "Electronix",
+                "subCategory": "Laptop"
+            },
+            {
+                "name": "T-Shirt",
+                "category": "Cloths",
+                "subCategory": "Men"
+            },
+            {
+                "name": "Dress",
+                "category": "Cloths",
+                "subCategory": "Women"
+            },
+            {
+                "name": "Carrot",
+                "category": "Groceries",
+                "subCategory": "Groceries"
+            }
+        ]
+    },
+    "component2": {
+        "welcome": "Welcome to Mantavya Seeds.",
+        "heading_section": "Mantavya Seeds Private Limited, established in 2004, is a leading seed company based in Gujarat, and one of the top companies in the Indian seed industry implementing new science and technology.",
+        "image_text": "Mantavya Seeds produces and sells scientific research seeds for various agricultural crops, primarily including groundnut, castor, sesame, mung, urad, pea, mustard, cumin, wheat, psyllium, fennel, chickpea, coriander, soybean, guar, pearl millet, maize, rice, fenugreek, onion, rajko, rajka bajra, SSG, cowpea, okra, and vegetable guar.",
+        "seed_quality": "Our seed production is based on a scientific approach and agricultural research, focusing on achieving high quality for optimal crop yields."
+    },
+    "welcome": "Welcome to Mantavya Seeds.",
+    "heading_section": "Mantavya Seeds Private Limited, established in 2004, is a leading seed company based in Gujarat, and one of the top companies in the Indian seed industry implementing new science and technology.",
+    "image_text": "Mantavya Seeds produces and sells scientific research seeds for various agricultural crops, primarily including groundnut, castor, sesame, mung, urad, pea, mustard, cumin, wheat, psyllium, fennel, chickpea, coriander, soybean, guar, pearl millet, maize, rice, fenugreek, onion, rajko, rajka bajra, SSG, cowpea, okra, and vegetable guar.",
+    "seed_quality": "Our seed production is based on a scientific approach and agricultural research, focusing on achieving high quality for optimal crop yields.",
+    "experience": "20+ years",
+    "experience_text": "Experience",
+    "brands": "100+",
+    "brands_text": "Amazing Brands",
+    "farmers": "50,000+",
+    "farmers_text": "Satisfied Farmers",
+    "locations": "100+",
+    "locations_text": "Locations and Staff"
+}

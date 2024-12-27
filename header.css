@@ -1,0 +1,124 @@
+/* Main dropdown container */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown content (category list) */
+/* .dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    top: 100%;
+    left: 0;
+    padding-top: 16px;
+    border-radius: 10px;
+    background-color: white;
+    color: #0a6d30;
+} */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    top: 100%;
+    left: 0;
+    padding-top: 16px;
+    border-radius: 10px;
+    background-color: white;
+    color: #0a6d30;
+    /* overflow-x: hidden;  */
+
+    /* kartik  */
+    background: aqua;
+    height: 40vh;
+    /* overflow-x: hidden;
+    overflow-y: scroll; */
+    z-index: 99999;
+}
+
+/* Show the dropdown when hovering over the main dropdown container */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Category item styles */
+.dropdown-item {
+    cursor: pointer;
+    background-color: white;
+    border-bottom: 1px solid #ccc;
+    font-weight: bold;
+    color: #0a6d30;
+    position: relative !important;
+    white-space: nowrap;
+    z-index: 2;
+}
+
+/* Hover effect for category items */
+.dropdown-item:hover {
+    background-color: #0a6d30 !important;
+    color: white !important;
+}
+
+/* Sub-dropdown content (subcategory list) */
+.sub-dropdown-content {
+    display: none;
+    position: absolute !important;
+    left: 100%;
+    top: 0;
+    z-index: 3;
+    background-color: #5bffad;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    max-height: none;
+    /* Set a fixed height for the sub-dropdown */
+    overflow: visible;
+}
+
+/* Show the sub-dropdown when hovering over a category */
+.dropdown-item:hover .sub-dropdown-content {
+    display: block;
+}
+
+/* Subcategory item styles */
+.sub-dropdown-item {
+    /* padding: 12px 16px !important; */
+    background-color: white;
+
+    color: #0a6d30;
+    /* Dark green for subcategory items */
+    /* border-bottom: 1px solid #ccc; */
+}
+
+/* Hover effect for subcategory items */
+.sub-dropdown-item:hover {
+    /* background-color: #2137f7; */
+    background-color: #0a6d30;
+    color: white;
+    /* Blue background on hover */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0a6d30 !important;
+    color: white;
+}
+
+li {
+    margin: 5px 0;
+}

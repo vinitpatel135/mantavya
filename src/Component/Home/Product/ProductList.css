@@ -1,0 +1,106 @@
+
+.product-container {
+    position: relative;
+    padding: 40px 0px;
+    text-align: center;
+    min-height: 100vh;
+    background-color: #f9f9f9;
+}
+
+.product-row-even {
+    position: relative;
+    padding: 40px 0px;
+    text-align: center;
+    /* min-height: 100vh; */
+    background-color: #f9f9f9;
+    background-image: url('/public/Images/SIDE\ DSIGN1.svg');
+    background-position: top left, bottom right;
+    background-repeat: no-repeat;
+    background-size: 70px 130px;
+}
+.product-row-odd {
+    position: relative;
+    padding: 40px 0px;
+    text-align: center;
+    /* min-height: 100vh; */
+    background-color: #f9f9f9;
+    background-image: url('/public/Images/SIDE\ DSIGN12.svg');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 70px 130px;
+}
+
+.product-grid{
+    display: flex !important;
+    align-items: center;
+    justify-content: center !important;
+    padding: 0 !important;
+}
+
+.css-1qgewj0-MuiGrid-root{
+    width: 100% !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center !important;
+    margin-left: 0 !important;
+}
+
+/* Heading styling */
+.heading {
+    color: #d32f2f;
+}
+
+/* Product Card Styling */
+.product-card {
+    width: 18vw;
+    background-color: white;
+    
+    border-radius: 8px 8px 0px 0px;
+    padding: 0px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* transition: transform 3s ease-in-out */
+    transition: transform 0.8s !important ;
+}
+
+.product-card:hover{
+    transform: translateY(-5px);
+}
+
+.product-image1 {
+    margin-bottom: 10px;
+}
+
+.buy-button {
+    background-color: #d32f2f !important;
+    color: white;
+    margin-top: 10px !important;
+    margin-bottom: 12px !important;
+}
+.product-name{
+    color: black;
+    font-weight: bold !important;
+}
+.image-title{
+    background-color: #F0F0F0;
+    padding: 17px 40px;
+    border-radius: 12px 12px 0px 0px;
+}
+.css-wg4xta-MuiGrid-root{
+    -webkit-flex-basis: 24.333333% !important;
+}
+
+/* Ensure product image adjusts on smaller screens */
+@media (max-width: 600px) {
+    .product-image {
+        max-width: 120px;
+    }
+    .product-card{
+        width: 70vw;
+        margin-bottom: 3rem;
+    }
+    .product-row-odd{
+        padding: 0 !important;
+    }
+}
+

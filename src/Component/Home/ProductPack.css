@@ -1,0 +1,66 @@
+/* Container for the whole ad */
+.product-ad {
+  /* height: 75vh; */
+  background-color: #f8f9fa; /* Light grey background */
+  background: url("/public/Images/div.elementor-repeater-item-5887cc6.png")
+    no-repeat center center;
+  background-size: cover;
+}
+
+.product-back-img {
+  /* height: 70vh; */
+  padding: 1rem 0;
+}
+
+/* Left side text overlay */
+.text-overlay-container {
+  color: white;
+  /* height: 100vh; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text-container {
+  /* margin-left: 30px; */
+  text-align: left;
+  padding-left: 1rem;
+}
+
+.ad-text {
+  font-weight: bold;
+  color: white;
+  font-size: 2.2rem;
+}
+
+/* Right side product image */
+.product-image-container {
+  text-align: left;
+}
+
+.product-image {
+  max-width: auto;
+  height: 50vh !important;
+}
+
+@media (max-width: 767px) {
+  .ad-text {
+    font-size: 1.5rem; /* Adjust the size as needed for mobile screens */
+  }
+  .text-overlay-container {
+    text-align: center !important;
+    justify-content: center;
+    margin-bottom: 1rem;
+  }
+  .text-container {
+    text-align: center !important;
+  }
+  .product-image-container {
+    text-align: center;
+  }
+  .product-image {
+    max-width: auto;
+    height: 28vh !important;
+    width: 170px;
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "header": {
+    "select_language": "તમારી ભાષા પસંદ કરો",
+    "contact": "સંપર્ક",
+    "download": "ડાઉનલોડ",
+    "product": "ઉત્પાદન",
+    "mui": "એમયુઆઈ",
+    "navItems": [
+      {
+        "name": "ઘર",
+        "path": "/"
+      },
+      {
+        "name": "અમારા વિશે",
+        "path": "/AboutUs"
+      },
+      {
+        "name": "ઉત્પાદન",
+        "path": "/AllProduct"
+      },
+      {
+        "name": "ગેલેરી",
+        "path": "/Gallary"
+      },
+      {
+        "name": "સંપર્ક",
+        "path": "/contactus"
+      }
+    ],
+    "productList": [
+      {
+        "category": "હા. કપાસ",
+        "subCategory": "મંતવ્ય એક્સપોર્ટ BGII",
+        "link": "/productdetails/1"
+      },
+      {
+        "category": "હા. કપાસ",
+        "subCategory": "મંતવ્ય ઝેડપ્લસ BGII",
+        "link": "/productdetails/1"
+      },
+      {
+        "category": "હા. કપાસ",
+        "subCategory": "મંતવ્ય ઝેડ ક્રોસ BGII",
+        "link": "/productdetails/1"
+      },
+      {
+        "category": "હા. કપાસ",
+        "subCategory": "મંતવ્ય-5 BGII",
+        "link": "/productdetails/1"
+      },
+      {
+        "category": "હા. કપાસ",
+        "subCategory": "મંતવ્ય ATM BGII",
+        "link": "/productdetails/1"
+      },
+      {
+        "category": "રિસર્ચ મગફળી",
+        "subCategory": "મંતવ્ય રાહી",
+        "link": "/productdetails/2"
+      },
+      {
+        "category": "રિસર્ચ દિવેલા",
+        "subCategory": "મંતવ્ય રાહી દિવેલા",
+        "link": "/productdetails/3"
+      },
+      {
+        "category": "રિસર્ચ દિવેલા",
+        "subCategory": "મંતવ્ય સાવજ",
+        "link": "/productdetails/3"
+      },
+      {
+        "category": "રિસર્ચ દિવેલા",
+        "subCategory": "મંતવ્ય 44",
+        "link": "/productdetails/3"
+      },
+      {
+        "category": "રિસર્ચ દિવેલા",
+        "subCategory": "મંતવ્ય 66",
+        "link": "/productdetails/3"
+      },
+      {
+        "category": "રિસર્ચ તલ",
+        "subCategory": "મંતવ્ય 111",
+        "link": "/productdetails/4"
+      },
+      {
+        "category": "રિસર્ચ તલ",
+        "subCategory": "મંતવ્ય કેશવ",
+        "link": "/productdetails/4"
+      },
+      {
+        "category": "રિસર્ચ તલ",
+        "subCategory": "મંતવ્ય એમ એસ-05",
+        "link": "/productdetails/4"
+      },
+      {
+        "category": "રિસર્ચ તલ",
+        "subCategory": "મંતવ્ય એમ એસ-18",
+        "link": "/productdetails/4"
+      },
+      {
+        "category": "રિસર્ચ તલ",
+        "subCategory": "મંતવ્ય એમ એસ-60",
+        "link": "/productdetails/4"
+      },
+      {
+        "category": "રિસર્ચ મગ",
+        "subCategory": "મંતવ્ય 65",
+        "link": "/productdetails/5"
+      },
+      {
+        "category": "રિસર્ચ મગ",
+        "subCategory": "મંતવ્ય મોહક",
+        "link": "/productdetails/5"
+      },
+      {
+        "category": "રિસર્ચ મગ",
+        "subCategory": "મંતવ્ય સાગર",
+        "link": "/productdetails/5"
+      },
+      {
+        "category": "રિસર્ચ અડદ",
+        "subCategory": "મંતવ્ય મંથન",
+        "link": "/productdetails/6"
+      },
+      {
+        "category": "રિસર્ચ અડદ",
+        "subCategory": "મંતવ્ય 101",
+        "link": "/productdetails/6"
+      },
+      {
+        "category": "રિસર્ચ તુવેર",
+        "subCategory": "મંતવ્ય સુપર",
+        "link": "/productdetails/7"
+      },
+      {
+        "category": "રિસર્ચ તુવેર",
+        "subCategory": "મંતવ્ય કુબેર",
+        "link": "/productdetails/7"
+      },
+      {
+        "category": "રિસર્ચ રાઈ",
+        "subCategory": "મંતવ્ય સમર્થ",
+        "link": "/productdetails/8"
+      },
+      {
+        "category": "રિસર્ચ રાઈ",
+        "subCategory": "મંતવ્ય 45 એમ 45",
+        "link": "/productdetails/8"
+      },
+      {
+        "category": "રિસર્ચ જીરું",
+        "subCategory": "જેકપોટ",
+        "link": "/productdetails/9"
+      },
+      {
+        "category": "રિસર્ચ જીરું",
+        "subCategory": "મહાકાલ 07",
+        "link": "/productdetails/9"
+      },
+      {
+        "category": "રિસર્ચ જીરું",
+        "subCategory": "મંતવ્ય 105",
+        "link": "/productdetails/9"
+      },
+      {
+        "category": "રિસર્ચ ઘઉં",
+        "subCategory": "મંતવ્ય પંચમ",
+        "link": "/productdetails/10"
+      },
+      {
+        "category": "રિસર્ચ ઇસબગુલ",
+        "subCategory": "મંતવ્ય 21",
+        "link": "/productdetails/11"
+      },
+      {
+        "category": "રિસર્ચ વરિયાળી",
+        "subCategory": "મંતવ્ય 101",
+        "link": "/productdetails/12"
+      },
+      {
+        "category": "રિસર્ચ વરિયાળી",
+        "subCategory": "મંતવ્ય 808",
+        "link": "/productdetails/12"
+      },
+      {
+        "category": "રિસર્ચ વરિયાળી",
+        "subCategory": "એમએસ-૧૦૨",
+        "link": "/productdetails/12"
+      },
+      {
+        "category": "રિસર્ચ ચણા",
+        "subCategory": "મંતવ્ય સ્વરા",
+        "link": "/productdetails/13"
+      },
+      {
+        "category": "રિસર્ચ ચણા",
+        "subCategory": "મંતવ્ય-૫",
+        "link": "/productdetails/13"
+      },
+      {
+        "category": "રિસર્ચ ધાણા",
+        "subCategory": "મંતવ્ય એમ 70",
+        "link": "/productdetails/14"
+      },
+      {
+        "category": "રિસર્ચ ધાણા",
+        "subCategory": "મંતવ્ય કિંગ પલ્સ",
+        "link": "/productdetails/14"
+      },
+      {
+        "category": "રિસર્ચ સોયાબીન",
+        "subCategory": "મંતવ્ય એમએસ-726",
+        "link": "/productdetails/15"
+      },
+      {
+        "category": "રિસર્ચ સોયાબીન",
+        "subCategory": "મંતવ્ય એમએસ-301",
+        "link": "/productdetails/15"
+      },
+      {
+        "category": "રિસર્ચ ગમ ગુવાર",
+        "subCategory": "મંતવ્ય વિરાટ",
+        "link": "/productdetails/16"
+      },
+      {
+        "category": "રિસર્ચ ગમ ગુવાર",
+        "subCategory": "મંતવ્ય વીર",
+        "link": "/productdetails/16"
+      },
+      {
+        "category": "રિસર્ચ હા. બાજરી",
+        "subCategory": "મંતવ્ય 1010",
+        "link": "/productdetails/17"
+      },
+      {
+        "category": "રિસર્ચ હા. બાજરી",
+        "subCategory": "મંતવ્ય એમએસ-2020",
+        "link": "/productdetails/17"
+      },
+      {
+        "category": "હા. મકાઈ",
+        "subCategory": "મંતવ્ય 2626",
+        "link": "/productdetails/18"
+      },
+      {
+        "category": "હા. મકાઈ",
+        "subCategory": "મંતવ્ય 3636",
+        "link": "/productdetails/18"
+      },
+      {
+        "category": "હા. મકાઈ",
+        "subCategory": "મંતવ્ય કેપ્ટન",
+        "link": "/productdetails/18"
+      },
+      {
+        "category": "હા. મકાઈ",
+        "subCategory": "મંતવ્ય એ ટુ ઝેડ",
+        "link": "/productdetails/18"
+      },
+      {
+        "category": "રિસર્ચ ડાંગર",
+        "subCategory": "મંતવ્ય 3344",
+        "link": "/productdetails/19"
+      },
+      {
+        "category": "રિસર્ચ ડાંગર",
+        "subCategory": "મંતવ્ય બાદશાહ",
+        "link": "/productdetails/19"
+      },
+      {
+        "category": "રિસર્ચ મેથી",
+        "subCategory": "મંતવ્ય રૂદ્રા",
+        "link": "/productdetails/20"
+      },
+      {
+        "category": "રિસર્ચ ડુંગળી",
+        "subCategory": "મંતવ્ય રેડ બોલ",
+        "link": "/productdetails/21"
+      },
+      {
+        "category": "રિસર્ચ ડુંગળી",
+        "subCategory": "મંતવ્ય સફલ",
+        "link": "/productdetails/21"
+      },
+      {
+        "category": "રિસર્ચ રજકો",
+        "subCategory": "એમએસ-01",
+        "link": "/productdetails/22"
+      },
+      {
+        "category": "રિસર્ચ રજકો",
+        "subCategory": "એમએસ-03",
+        "link": "/productdetails/22"
+      },
+      {
+        "category": "રિસર્ચ રજકો",
+        "subCategory": "મંતવ્ય અમુલ",
+        "link": "/productdetails/22"
+      },
+      {
+        "category": "રિસર્ચ રજકો",
+        "subCategory": "મંતવ્ય અતુલ્ય",
+        "link": "/productdetails/22"
+      },
+      {
+        "category": "રિસર્ચ એસ. એસ. જી",
+        "subCategory": "મંતવ્ય કેસર",
+        "link": "/productdetails/23"
+      },
+      {
+        "category": "રિસર્ચ એસ. એસ. જી",
+        "subCategory": "મંતવ્ય ઉજાલા",
+        "link": "/productdetails/23"
+      },
+      {
+        "category": "રિસર્ચ ચોળી",
+        "subCategory": "મંતવ્ય ઉજાલા",
+        "link": "/productdetails/24"
+      },
+      {
+        "category": "હા. ભીંડો",
+        "subCategory": "મંતવ્ય બોસ",
+        "link": "/productdetails/25"
+      },
+      {
+        "category": "હા. ભીંડો",
+        "subCategory": "મંતવ્ય બોન્ડ",
+        "link": "/productdetails/25"
+      },
+      {
+        "category": "વેજ ગુવાર",
+        "subCategory": "મંતવ્ય વામન",
+        "link": "/productdetails/26"
+      },
+      {
+        "category": "વેજ ગુવાર",
+        "subCategory": "મંતવ્ય 601",
+        "link": "/productdetails/26"
+      }
+    ]
+  },
+  "component2": {
+    "welcome": "મંતવ્ય સીડ્સ માં આપણું સ્વાગત છે.",
+    "heading_section": "મંતવ્ય સીડ્સ પ્રાઈવેટ લિમિટેડ, 2004 માં સ્થાપી હતી, ગુજરાતમાં સ્થિત એક અગ્રણી બીજ કંપની છે, જે ભારતીય બીજ ઉદ્યોગમાં નવા વિજ્ઞાન અને ટેક્નોલોજીની અમલ કરતા શ્રેષ્ઠ કંપનીઓમાંની એક છે. ખેડૂતો સમુદાયને ગુણવત્તાવાળા બિયારણ પૂરા પાડવા માટે, અમે અમારા પ્રતિબદ્ધતામાં અગ્રગણ્ય છીએ.",
+    "image_text": "મંતવ્ય સીડ્સ કૃષિના વિવિધ પાકો માટે વૈજ્ઞાનિક રિસર્ચ બિયારણનું ઉત્પાદન અને વેચાણ કરે છે, જેમાં મુખ્યત્વે મગફળી, એરંડા, તલ, મગ, અડદ, વટાણા, રાઈ, જીરું, ઘઉં, ઇસબગુલ, વરિયાળી, ચણા, કોથમીર, સોયાબીન, ગમ ગુવાર, બાજરી, મકાઈ, ડાંગર, મેથી, ડુંગળી, રજકો, રજકા બાજરી, SSG, ચોળી, ભીંડો, અને વેજ ગુવાર જેવા પાકોનો સમાવેશ થાય છે.",
+    "seed_quality": "અમારું બિયારણ ઉત્પાદન વૈજ્ઞાનિક અભિગમ અને કૃષિ રિસર્ચ પર આધારિત છે, જે પાકોના શ્રેષ્ઠ ઉપજ માટે અનુકૂળ ગુણવત્તા પ્રાપ્ત કરવા પર ધ્યાન કેન્દ્રિત કરે છે."
+  },
+  "experience": "20 વર્ષ+",
+  "experience_text": "અનુભવ",
+  "brands": "100+",
+  "brands_text": "અમેન્જ બ્રાન્ડ્સ",
+  "farmers": "50,000+",
+  "farmers_text": "ફુલ ખેડૂતો",
+  "locations": "100+",
+  "locations_text": "લોકેશન અને કર્મચારી"
+}
